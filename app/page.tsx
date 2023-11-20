@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Home() {
   return (
     <main>
-      <h1>Welome to the world of nextjs</h1>
+      <h1>Welome to the world of next js</h1>
       <Link href="/user">user</Link>
     </main>
   );
